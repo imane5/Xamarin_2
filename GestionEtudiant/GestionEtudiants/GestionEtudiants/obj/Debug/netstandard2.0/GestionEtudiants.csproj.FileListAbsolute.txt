@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\bin\Debug\netstandard2.0\GestionEtudiants.deps.json
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\bin\Debug\netstandard2.0\GestionEtudiants.dll
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.App.xaml.g.cs
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.MainPage.xaml.g.cs
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.AssemblyInfo.cs
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\bin\Debug\netstandard2.0\GestionEtudiants.pdb
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.dll
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.pdb
+C:\Users\user\source\repos\GestionEtudiants\GestionEtudiants\GestionEtudiants\obj\Debug\netstandard2.0\GestionEtudiants.csprojResolveAssemblyReference.cache

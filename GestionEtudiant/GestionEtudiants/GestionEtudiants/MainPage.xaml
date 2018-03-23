@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GestionEtudiants"
+             x:Class="GestionEtudiants.MainPage">
+
+	<Label Text="Welcome to Xamarin.Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+    <ListView x:Name="etudiantIListView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell Text="{Binding Nom}"
+                          Detail="{Binding Telephone}"/>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>
