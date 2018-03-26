@@ -877,11 +877,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.Android\\GestionEtudiants.Android.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\GestionEtudiants\\GestionEtudiant\\GestionEtudiants\\GestionEtudiants.Android\\GestionEtudiants.Android.csproj",
       "projectName": "GestionEtudiants.Android",
-      "projectPath": "C:\\Users\\user\\source\\repos\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.Android\\GestionEtudiants.Android.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\GestionEtudiants\\GestionEtudiant\\GestionEtudiants\\GestionEtudiants.Android\\GestionEtudiants.Android.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.Android\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\GestionEtudiants\\GestionEtudiant\\GestionEtudiants\\GestionEtudiants.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -902,8 +902,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.csproj"
+            "C:\\Users\\user\\Desktop\\GestionEtudiants\\GestionEtudiant\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\GestionEtudiants\\GestionEtudiant\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants.csproj"
             }
           }
         }

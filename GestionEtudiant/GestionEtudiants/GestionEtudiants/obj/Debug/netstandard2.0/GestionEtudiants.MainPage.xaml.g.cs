@@ -11,8 +11,8 @@
 namespace GestionEtudiants {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\user\\source\\repos\\GestionEtudiants\\GestionEtudiants\\GestionEtudiants\\Mai" +
-        "nPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\user\\Desktop\\GestionEtudiants\\GestionEtudiant\\GestionEtudiants\\GestionEt" +
+        "udiants\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

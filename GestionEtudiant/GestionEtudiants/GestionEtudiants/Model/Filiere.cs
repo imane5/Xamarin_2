@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GestionEtudiants.Model
 {
-    class Filiere
+    public class Filiere
     {
         
         Int32 id_fil;
